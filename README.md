@@ -1,4 +1,5 @@
-# A mini blog written in Vue3. Functionality: Adding/Removal/Sorting/Search for posts
+# A mini blog written in Vue3.
+Functionality: Adding/Removal/Sorting/Search for posts
 
 # MiniBlog
 
