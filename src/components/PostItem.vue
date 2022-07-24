@@ -15,8 +15,7 @@
       </button>
 
     </div>
-
-
+    
   </div>
 
 </template>
@@ -28,7 +27,6 @@ export default {
       type: Object,
       required: true
     }
-
   }
 }
 </script>
