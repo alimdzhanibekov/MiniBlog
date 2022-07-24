@@ -1,3 +1,6 @@
+A mini blog written in Vue3 
+Functionality: Adding/Removal/Sorting/Search for posts
+
 # vue_app
 
 ## Project setup
